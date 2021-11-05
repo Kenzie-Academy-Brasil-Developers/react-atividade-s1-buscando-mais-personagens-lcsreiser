@@ -1,0 +1,13 @@
+.cardsAqua {
+  background-color: aqua;
+  margin: 10px;
+}
+
+.cardsRed {
+  background-color: darkred;
+  margin: 10px;
+}
+
+img {
+  width: 250px;
+}
